@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>HOOK_IMPL</TOOL>
+   <SHORTTEXT>plantUML Diagrams</SHORTTEXT>
+   <ORIGINAL_OBJECT>
+    <PGMID>R3TR</PGMID>
+    <ORG_OBJ_TYPE>CLAS</ORG_OBJ_TYPE>
+    <ORG_OBJ_NAME>CL_ATRA_UML_HANDLING</ORG_OBJ_NAME>
+    <ORG_MAIN_TYPE>CLAS</ORG_MAIN_TYPE>
+    <ORG_MAIN_NAME>CL_ATRA_UML_HANDLING</ORG_MAIN_NAME>
+    <PROGRAMNAME>CL_ATRA_UML_HANDLING==========CP</PROGRAMNAME>
+   </ORIGINAL_OBJECT>
+   <ENHANCEMENTS>
+    <ENH_HOOK_IMPL>
+     <PROGRAMNAME>CL_ATRA_UML_HANDLING==========CP</PROGRAMNAME>
+     <ENHMODE>S</ENHMODE>
+     <FULL_NAME>\PR:CL_ATRA_UML_HANDLING==========CP\IC:CL_ATRA_UML_HANDLING==========CCIMP\SE:END\EI</FULL_NAME>
+     <SOURCE>
+      <item>INCLUDE YY_SATRA_INCLUDE.</item>
+     </SOURCE>
+    </ENH_HOOK_IMPL>
+   </ENHANCEMENTS>
+   <SPACES>
+    <item>
+     <FULL_NAME>\PR:CL_ATRA_UML_HANDLING==========CP\IC:CL_ATRA_UML_HANDLING==========CCIMP\SE:END\EI</FULL_NAME>
+     <SPACES>
+      <item>2</item>
+     </SPACES>
+    </item>
+   </SPACES>
+  </asx:values>
+ </asx:abap>
+</abapGit>

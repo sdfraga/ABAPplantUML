@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>CLASENH</TOOL>
+   <SHORTTEXT>plantUML Diagram</SHORTTEXT>
+   <CLASS>CL_ATRA_UML_HANDLING</CLASS>
+   <OWR_METHODS>
+    <ENHAMETHKEYS>
+     <METHKEY>
+      <CLSNAME>CL_ATRA_UML_HANDLING</CLSNAME>
+      <CMPNAME>SHOW_SEQ_DIAGRAM</CMPNAME>
+     </METHKEY>
+    </ENHAMETHKEYS>
+   </OWR_METHODS>
+   <TAB_ATTRIBUTES>
+    <ENHCLASSATTRIB>
+     <CLSNAME>CL_ATRA_UML_HANDLING</CLSNAME>
+     <CMPNAME>%_YY_SATRA_SEQUENCE2</CMPNAME>
+     <DESCRIPT>SAP-generated, not changeable!</DESCRIPT>
+     <STATE>1</STATE>
+     <EDITORDER>1</EDITORDER>
+     <TYPTYPE>3</TYPTYPE>
+     <TYPE>OBJECT</TYPE>
+     <LOCKED>X</LOCKED>
+    </ENHCLASSATTRIB>
+   </TAB_ATTRIBUTES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
